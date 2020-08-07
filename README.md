@@ -16,15 +16,10 @@
 
 <br />
 
-# StackOverflow Activity 👋
-
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
 ---
 
 <img align="left" alt="Fernando's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FACorreiaa&show_icons=true&hide_border=true" />
- 
+
 ---
 
 ### Languages and Tools:
