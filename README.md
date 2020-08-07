@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Fernando 👋
 
 ## I'm a web developer learning the web!
 
