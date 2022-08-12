@@ -2,9 +2,8 @@
 
 ## I'm a web developer learning the web!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute to Open Source projects; Learn French!
+- 🌱 Learning as much as i can, one step at a time.
+- 🥅 2022 Goals: Be a better version of yesterday's me.
 - ⚡ Fun fact: I love to watch movies and listen to music
 
 ### Connect with me:
