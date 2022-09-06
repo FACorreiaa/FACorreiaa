@@ -1,10 +1,6 @@
 ### Hi there, I'm Fernando 👋
 
-## I'm a web developer learning the web!
-
-- 🌱 Learning as much as i can, one step at a time.
-- 🥅 2022 Goals: Be a better version of yesterday's me.
-- ⚡ Fun fact: I love to watch movies and listen to music
+Software Engineer
 
 ### Connect with me:
 
