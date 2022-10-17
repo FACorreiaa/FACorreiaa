@@ -1,8 +1,8 @@
-   <p>### Hi there, I'm Fernando 👋
-
-Software Engineer
-
-### Connect with me:
+<div style="text-align:center;">
+<p align="center">Hi there, I'm Fernando 👋</p>
+<p align="center">Software Engineer</p>
+<p align="center">### Connect with me: </p>
+</div>
 <div style="text-align:center;">
 <a>
     <p align="center"> 
@@ -12,8 +12,9 @@ Software Engineer
 </a>
 <br />
 <p align="center">
-<img align="center" alt="Fernando's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FACorreiaa&show_icons=true&hide_border=true" />
-</p>
+<a href="https://github.com/facorreiaa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FACorreiaa&show_icons=true&theme=radical" />
+</a></p>
 <br /> 
 
 <a>
