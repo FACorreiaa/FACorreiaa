@@ -7,7 +7,7 @@
 <a>
     <p align="center"> 
         <a href="https://www.linkedin.com/in/fernando-correia-ab018079/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<p> Currently learning <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c.svg" width="35" height="35" alt="Go" /></a> and  </p>
+<p> Currently learning <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplus.svg" width="35" height="35" alt="Go" /></a> and <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="35" height="35" alt="Go" /> </p>
 <br />
 <p align="center">
 <a href="https://github.com/facorreiaa/github-readme-stats">
