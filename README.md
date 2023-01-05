@@ -1,21 +1,21 @@
 <div style="text-align:center;">
 <p align="center">Hi there, I'm Fernando 👋</p>
 <p align="center">Software Engineer</p>
-<p align="center">Connect with me: </p>
+<p align="center">Connect with me: <a href="https://www.linkedin.com/in/fernando-correia-ab018079/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></p>
 </div>
 <div style="text-align:center;">
 <a>
     <p align="center"> 
-        <a href="https://www.linkedin.com/in/fernando-correia-ab018079/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-Currently learning <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus.svg" width="35" height="35" alt="Go" /></a> and <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="35" height="35" alt="Go" /> </p>
+        </a>
+2023 goal is to continue to learn everything I can. Learn C++ and Work more with Go. <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus.svg" width="35" height="35" alt="Go" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="35" height="35" alt="Go" /> </p>
 <br />
 <p align="center">
 <a href="https://github.com/facorreiaa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FACorreiaa&show_icons=true&theme=radical" />
 </a></p>
 <br /> 
-
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&borderRadius=6&fontSize=23&fontWeight=bold&lineCount=3&theme=catppuccin_frappe&line1=react,react,bd4825;tailwindcss,tailwind,4d3b75;typescript,typescript,af84d3;svelte,svelte,002e71;&line2=csharp,csharp,2f860b;go,go,a32910;postgresql,postgresql,3cf1a4;mongodb,mongodb,a737aa;&line3=trpc,trpc,24f594;graphql,graphql,d3f7db;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&borderRadius=6&fontSize=23&fontWeight=bold&lineCount=3&theme=catppuccin_frappe&line1=react,react,bd4825;tailwindcss,tailwind,4d3b75;typescript,typescript,af84d3;svelte,svelte,002e71;&line2=csharp,csharp,2f860b;go,go,a32910;postgresql,postgresql,3cf1a4;mongodb,mongodb,a737aa;&line3=trpc,trpc,24f594;graphql,graphql,d3f7db;)
+<p align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&borderRadius=6&fontSize=23&fontWeight=bold&lineCount=3&theme=catppuccin_frappe&line1=react,react,bd4825;tailwindcss,tailwind,4d3b75;typescript,typescript,af84d3;svelte,svelte,002e71;&line2=csharp,csharp,2f860b;go,go,a32910;postgresql,postgresql,3cf1a4;mongodb,mongodb,a737aa;&line3=trpc,trpc,24f594;graphql,graphql,d3f7db;" alt="My Tech Stack" /></p>
 
 
 <p align="center">
