@@ -5,9 +5,7 @@
 </div>
 <div style="text-align:center;">
 <a>
-    <p align="center"> 
-        </a>
-2023 goal is to continue to learn everything I can. Learn C++ and Work more with Go. <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus.svg" width="35" height="35" alt="Go" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="35" height="35" alt="Go" /> </p>
+
 <br />
 <p align="center">
 <a href="https://github.com/facorreiaa/github-readme-stats">
