@@ -1,7 +1,7 @@
 <div style="text-align:center;">
 <p align="center">Hi there, I'm Fernando 👋</p>
 <p align="center">Software Engineer</p>
-<p align="center">Connect with me: <a href="https://www.linkedin.com/in/fernando-correia-ab018079/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></p>
+<p align="center"> <a href="https://www.linkedin.com/in/fernando-correia-ab018079/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></p>
 </div>
 <div style="text-align:center;">
 <a>
