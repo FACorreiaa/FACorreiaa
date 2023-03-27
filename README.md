@@ -11,8 +11,10 @@
 <a href="https://github.com/facorreiaa/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FACorreiaa&show_icons=true&theme=radical" />
 </a></p>
+
 <br /> 
 <p align="center">
+
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&borderRadius=6&fontSize=23&fontWeight=bold&lineCount=3&theme=catppuccin_frappe&line1=react,react,bd4825;tailwindcss,tailwind,4d3b75;typescript,typescript,af84d3;svelte,svelte,002e71;&line2=csharp,csharp,2f860b;go,go,a32910;postgresql,postgresql,3cf1a4;mongodb,mongodb,a737aa;&line3=trpc,trpc,24f594;graphql,graphql,d3f7db;" alt="My Tech Stack" /></p>
 
 
