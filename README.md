@@ -9,7 +9,7 @@
 <br />
 <p align="center">
 <a href="https://github.com/facorreiaa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FACorreiaa&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FACorreiaa&show_icons=true&theme=radical&count_private=true" />
 </a>
   
 <br /> 
