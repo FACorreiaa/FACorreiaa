@@ -23,7 +23,6 @@
 
 <br><a href="http://www.github.com/FACorreiaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FACorreiaa&stroke=ffffff&background=1c1917&ring=ffffff&fire=FFFF00&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ef4239&sideLabels=00FFFF&dates=FFA500&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" /></a>
 </a>
-  
-  <br><a href="http://www.github.com/FACorreiaa"><img src="https://github-readme-stats.vercel.app/api/Knox316?username=FACorreiaa&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" /></a>
-</a>
+ 
 </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/Knox316?username=FACorreiaa)](https://github.com/anuraghazra/github-readme-stats)
