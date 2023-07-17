@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<a href="https://github.com/FACorreiaa" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FACorreiaa&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/FACorreiaa" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FACorreiaa&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&hide=css,scss,html,HTTP,Pug&hide_border=false&custom_title=Top%Languages" alt="Top Languages" /></a>
 <br>
 <a href="http://www.github.com/FACorreiaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FACorreiaa&stroke=ffffff&background=1c1917&ring=ffffff&fire=FFFF00&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ef4239&sideLabels=00FFFF&dates=FFA500&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" /></a>
 </a>
