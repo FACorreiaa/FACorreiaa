@@ -23,3 +23,6 @@
 <a href="http://www.github.com/FACorreiaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FACorreiaa&stroke=ffffff&background=1c1917&ring=ffffff&fire=FFFF00&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ef4239&sideLabels=00FFFF&dates=FFA500&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" /></a>
 </a>
 </p>
+<p>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/FACorreiaa)
+</p>
